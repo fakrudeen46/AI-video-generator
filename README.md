@@ -21,6 +21,17 @@ README.md
 ...
 ```
 
+## Environment
+
+This project is configured to use **Node.js v22.16.0**.
+
+If you have [NVM (Node Version Manager)](https://github.com/nvm-sh/nvm) installed, you can switch to the correct Node.js version by running the following command in the project's root directory:
+
+```bash
+nvm use
+```
+This command reads the `.nvmrc` file located in the project root.
+
 ## Installation
 
 1. Clone the repository:
